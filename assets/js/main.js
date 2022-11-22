@@ -24,8 +24,8 @@ function aplicarCambios() {
     total=esNum.format(total)
 
     //Se copia la cantidad a el span con el id #cal_total
-    parrafo = document.querySelector('#cal_total')
-    parrafo.innerHTML = total
+    parrafo1 = document.querySelector('#cal_total')
+    parrafo1.innerHTML = total
 
     //Se selecciona el color ingresado en el input de id #color
     color1=document.querySelector('#color')
