@@ -73,6 +73,9 @@ input{
     justify-content: space-between;
     text-align: center;
     padding: 20px 10px 10px 10px;
+    border-radius: 3%;
+    border: 1px solid grey; 
+    box-shadow: 1px 1px 2px grey;
 }
 .card .image{
     background-color: #7ba238;
